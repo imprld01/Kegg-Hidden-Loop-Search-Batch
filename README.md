@@ -1,6 +1,23 @@
 # Kegg-Hidden-Loop-Search-Batch
 
 
+
+* [Here](https://goo.gl/VKIkOe) you can know more about kegg hidden loop searching
+
+# KGI
+
+The searching is based on KGI, which is an integrated database on kegg database.
+
+* Find KGI [here](https://github.com/imprld01/Kegg-Hidden-Loop-Search/tree/master/res/Kgml_Information/ko) immediately
+  * retrieved on 2017/05/07
+  * species: **ko**(KEGG Orthology)
+  * place KGI in specific directory(~/Database/Kgml_Information/ko/)
+  
+# Environment
+
+* under windows 32-bit OS
+* Java Runtime Environment is needed (developed under jre1.8.0)
+
 # How to Use
 
 * Step 1: Initialization
