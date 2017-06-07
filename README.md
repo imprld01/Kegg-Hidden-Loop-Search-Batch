@@ -9,7 +9,7 @@
 The searching is based on KGI, an integrated data structure parsed from kegg database in specific species.
 
 * Find KGI [here](https://github.com/imprld01/Kegg-Hidden-Loop-Search/tree/master/res/Kgml_Information/ko) immediately
-  * retrieved on 2017/05/07
+  * retrieved on 2017/05/07 from KEGG
   * species: **ko** (KEGG Orthology)
   * place **Kgml_Info.ki** in specific directory: ~/Database/Kgml_Information/ko/
   
