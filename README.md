@@ -20,17 +20,17 @@ The searching is based on KGI, which is an integrated database on kegg database.
 
 # How to Use
 
-* Step 1: Initialization
+* **Step 1: Initialization**
   * description: 
   * input: 
   * output: 
   * condition: 
-* Step 2: Database Preparing
+* **Step 2: Database Preparing**
   * description: 
   * input: 
   * output: 
   * condition: 
-* Step 3: Searching and Reporting
+* **Step 3: Searching and Reporting**
   * description: 
   * input: 
   * output: 
@@ -38,24 +38,24 @@ The searching is based on KGI, which is an integrated database on kegg database.
   
 # Reading the Reports
 
-* Feedback_Loop.fl
+* **Feedback_Loop.fl**
   * description: 
   * semanstics: 
-* Place_Path.pph
+* **Place_Path.pph**
   * description: 
   * semanstics: 
-* Relation_Report.rlr
+* **Relation_Report.rlr**
   * description: 
   * semanstics: 
-* Relation_Loop.rlp
+* **Relation_Loop.rlp**
   * description: 
   * semanstics: 
-* Trim_Report.tr
+* **Trim_Report.tr**
   * description: 
   * semanstics: 
-* Merge_Report.mgr
+* **Merge_Report.mgr**
   * description: 
   * semanstics: 
-* Min_Report.mr
+* **Min_Report.mr**
   * description: 
   * semanstics: 
