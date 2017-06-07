@@ -6,12 +6,12 @@
 
 # KGI
 
-The searching is based on KGI, which is an integrated database on kegg database.
+The searching is based on KGI, which is an integrated data structure on kegg database.
 
 * Find KGI [here](https://github.com/imprld01/Kegg-Hidden-Loop-Search/tree/master/res/Kgml_Information/ko) immediately
   * retrieved on 2017/05/07
   * species: **ko**(KEGG Orthology)
-  * place KGI in specific directory(~/Database/Kgml_Information/ko/)
+  * place **Kgml_Info.ki** in specific directory: ~/Database/Kgml_Information/ko/
   
 # Environment
 
