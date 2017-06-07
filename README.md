@@ -36,7 +36,7 @@ The searching is based on KGI, which is an integrated database on kegg database.
   * output: 
   * condition: 
   
-# Reading the Reporting
+# Reading the Reports
 
 * Feedback_Loop.fl
   * description: 
