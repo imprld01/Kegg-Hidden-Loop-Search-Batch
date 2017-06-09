@@ -3,7 +3,7 @@
 
 
 * [Here](https://goo.gl/VKIkOe) you can know more about kegg hidden loop searching
-* [Here](https://goo.gl/PMFctb) you can find the user guide
+* you can find the user guide [below](https://goo.gl/PMFctb)
 * **Searching is based on KGI, you can find KGI [here](https://goo.gl/indrKj) immediately or prepare KGI by yourself**
   
 # Environment
