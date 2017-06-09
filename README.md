@@ -8,10 +8,17 @@
 
 The searching is based on KGI, an integrated data structure parsed from kegg database in specific species.
 
-* Find KGI [here](https://github.com/imprld01/Kegg-Hidden-Loop-Search/tree/master/res/Kgml_Information/ko) immediately
-  * retrieved on 2017/05/07 from KEGG
-  * species: **ko** (KEGG Orthology)
-  * place **Kgml_Info.ki** in specific directory: ~/Database/Kgml_Information/ko/
+* Find the KGI file immediately
+  * **KEGG Orthology**
+    1. find the KGI file [here](https://goo.gl/ldhIra)
+    2. retrieved on 2017/05/07 from KEGG
+    3. Org Code: *ko*
+    4. place *Kgml_Info.ki* in specific directory: ~/Database/Kgml_Information/ko/
+  * **Danio rerio (zebrafish)**
+    1. find the KGI file [here](https://goo.gl/Y57ulx)
+    2. retrieved on 2017/06/09 from KEGG
+    3. Org Code: *dre*
+    4. place *Kgml_Info.ki* in specific directory: ~/Database/Kgml_Information/dre/
   
 # Environment
 
