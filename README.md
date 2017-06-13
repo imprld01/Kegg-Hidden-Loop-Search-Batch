@@ -33,7 +33,7 @@
 
 * **Feedback_Loop.fl**
   * description: 
-  * semanstics: *loop*&lt;space&gt;(*path_id*[:]*link_list*&lt;space&gt;)<sup>*</sup>*path_id*[:]*link_list*
+  * semanstics: *loop***&lt;space&gt;**(*path_id*[:]*link_list*&lt;space&gt;)<sup>*</sup>*path_id*[:]*link_list*
   * <u>remark</u>
 	* (*gene_name*[(]*gene_id*[)->])<sup>*</sup>*gene_name*[(]*gene_id*[)]
 	* (*gene_name*[->])<sup>*</sup>*gene_name*
